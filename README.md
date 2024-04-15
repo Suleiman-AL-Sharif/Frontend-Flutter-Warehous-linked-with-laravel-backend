@@ -1,5 +1,5 @@
 Warehouse Managment System (WMS) ..
-This App Created By Abdullah Al-Kabbani in 1/5/2023.
+This App Created By Suliman AL_Sharef in 1/5/2023.
 
 # توصيف التطبيق (عربي)
 
